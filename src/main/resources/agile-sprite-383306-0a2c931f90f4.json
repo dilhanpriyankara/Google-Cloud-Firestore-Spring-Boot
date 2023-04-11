@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agile-sprite-383306",
+  "private_key_id": "0a2c931f90f4755799867098063b94848d4e97ed",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfMq4wfoP+yDQ6\nuiuJWvkp+BM0T6Pkjh4SN62AAN0srKX4OGWVx+/AvxlsdLAz2dv+XioN2+ZlsZSu\nUIEPRQekboCzXgljxNwezq3+cYCyBA8Qu09ymFIvOARQ4s42lw7iIBv9vktW92vQ\nq2aEGK5Td82j1J3wcih51qv+8I9ogZ02FFJbuWtubMgVC2HA/hOCO64GxoGM9GCQ\nrZShWXvTKm90SkuHVxw9qSjsOJlDqd3brLDzUmd1m+k76bGwg3oaQN/jMyywtAKE\nSHDtanCJZmcVF8CsBIVfiXLf6vmCXWplBOvZn65N04GTg929fOrzomrX8KPCdy1L\nbs+imWXZAgMBAAECggEACm7sjJDFa8oBAwPD2Dpb7lXN1AKrBxqLlk9q+VJRBG8X\nnQhJ21wKvYhRUGwN9oaHDZdqQNaYKQXJjPJvbf7MkiemNXw+VR8VKQ2BPaUhnnCp\nIZ+X4aP0J4fnT76iZBPgmrpkhJJ6JBkRvaHde2xJ7dXqU2+zaFN1x+g8hwDIu1pJ\nXFhnNtZBkxnblJDuslTxxzbOS06e4SrgBq9ADlWlh7jktKhS//R9v4JAaVSELflC\niskHKFAO8ok9w9PIp05KU5e9YEWdZJTfwkPt1EU/QNWWl2SJspG00b61uYS5hyWW\nctW8qk/K/RP2r3x+qYUZqdi1S5lnhL8wAP8/Ec2cAQKBgQDz6yK8QADf9bxISZfr\n0dn8zMrZs6GJB5hG89xoXZGe7LFRBNVu9u4Dyo7X0nFUA2eium9aeRjiOuY7C2oB\ndBeqjwLsYxdbpHHv7aMmuM7M+kYADESFoFsE0VJj0Mh1ETd7va+Q7HtvMdpb+T17\nM81rSQgsiPsaFbl7cH4243dy2QKBgQDqQM9x/QNtEN2797KHq2ZuBTzksam9P+V2\nyDStnZh+O4xYQf6wKwF1X5crPTc/BrrFgktBjs4o91dE5HNypDaG+lXlIFgtnvmi\nrxKVmxfwboIDF8W6OMuFsuXAyCamYULhH2ZxsZBFOGOgvTtM2gLMFzSTRJSX04od\nTcdEt+OrAQKBgQCW17X+dxJTbjOG/MQP2RIW7UsRQK5IAMNiNZL7k8nnX3b0pKmd\nWuWswIp/26usCgMANo2AhN0noscYgqGGzpWIK7LiHxGl4dd4ShyYaLezOZ8qjmud\nu6IuI4jxI3+kLgaC5rZ5SFW5WToxoLwtwcZqb5q3d+rZoc+4D8RuC1OmWQKBgGgX\nuJbMeXNDpWRbYyfKUE/fX/m3wNdpx0uLF212tEaTq3+kg8pAsfs4KPJ710rYcLJH\nfa16Cb5Geq8QXQS6V8iPARA52TUciY1zAm0cZ/zc/kTlkWV4y2dz4YhS6GnSmmdz\nDpDC+Hrp3cuViv5ReiC6xxARz33P8HWpFD1DAZYBAoGAYqpwidpfSKjQQpCbm30A\nBD4KF81GqyUYMtRNr9vn32b3BJ8qax27NuQDuw7mbpBNLEWtkC+zFqUrMHBZ4H1/\ngL4an7WNcoiAyW/biqmsAcOKU6xNUCjgO98S2m4rPH/tQ1P+XkFxFenrm8WVHwhd\njHqt1eco52xs6Js1SYIDRnQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-firestore-demo@agile-sprite-383306.iam.gserviceaccount.com",
+  "client_id": "115539868867776200433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-firestore-demo%40agile-sprite-383306.iam.gserviceaccount.com"
+}
